@@ -6,7 +6,7 @@ categories:
 - 杂项
 tags: []
 ---
-[![](/assets/images/2014/12/DS5LS-300x225.jpg)](/uploads/2014/12/DS5LS.jpg)
+![](/assets/images/2014/12/DS5LS.jpg)
 
 ---
 

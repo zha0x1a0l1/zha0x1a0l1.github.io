@@ -13,20 +13,20 @@ tags: []
 谢谢你这三年来的陪伴。感谢。希望你能继续发挥你的优良品质，为你的新主人继续服务。
 再次感谢。
 1. 最后一次给小风加油，加了150块。
-[![IMG_0320](/assets/images/2014/12/IMG_0320-300x225.jpg)](/uploads/2014/12/IMG_0320.jpg)
+![](/assets/images/2014/12/IMG_0320.jpg)
 2. 这个角度看起来，还是很漂亮。
-[![IMG_0322](/assets/images/2014/12/IMG_0322-300x225.jpg)](/uploads/2014/12/IMG_0322.jpg)
+![](/assets/images/2014/12/IMG_0322.jpg)
 
-[![IMG_0323](/assets/images/2014/12/IMG_0323-300x225.jpg)](/uploads/2014/12/IMG_0323.jpg)
+![](/assets/images/2014/12/IMG_0323.jpg)
 3.正面看起来也可以，只是显得有些小。
-[![IMG_0325](/assets/images/2014/12/IMG_0325-300x225.jpg)](/uploads/2014/12/IMG_0325.jpg)
+![IMG_0325](/assets/images/2014/12/IMG_0325.jpg)
 
-[![IMG_0327](/assets/images/2014/12/IMG_0327-300x225.jpg)](/uploads/2014/12/IMG_0327.jpg)
+![](/assets/images/2014/12/IMG_0327.jpg)
 4. 我也来露个脸，感谢最后一次还把我拉到了4S店。
-[![IMG_0330](/assets/images/2014/12/IMG_0330-225x300.jpg)](/uploads/2014/12/IMG_0330.jpg)
+![](/assets/images/2014/12/IMG_0330.jpg)
 
 5. 已经到二手商贩那里了，看见工人正在给你洗白白。希望你早就找到你的新主人，继续服务。
-[![IMG_0332](/assets/images/2014/12/IMG_0332-300x225.jpg)](/uploads/2014/12/IMG_0332.jpg)
+![](/assets/images/2014/12/IMG_0332.jpg)
 
 ---
 
