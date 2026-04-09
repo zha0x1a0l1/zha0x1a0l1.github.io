@@ -4,9 +4,9 @@
   icon: "fab fa-twitter"
   url:  'https://x.com/Zha0X1a0l1'
 
-- type: weibo
-  icon: "fa-brands fa-weibo"
-  url:  'https://weibo.com/zha0x1a0l1'
+#- type: weibo
+#  icon: "fa-brands fa-weibo"
+#  url:  'https://weibo.com/zha0x1a0l1'
 
 - type: facebook
   icon: "fa-brands fa-facebook"
@@ -16,9 +16,9 @@
   icon: "fa-brands fa-telegram"
   url:  'https://t.me/Zha0X1a0l1'
 
-#- type: email
-#  icon: "fas fa-envelope"
-#  noblank: true
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
 
 #- type: rss
 #  icon: "fas fa-rss"
